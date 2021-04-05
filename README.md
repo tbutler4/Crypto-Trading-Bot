@@ -4,11 +4,11 @@
 **Crypto-Trading-Bot** is an application for users to trade or just keep updated with Tokens on the blockchain. My goal was to create a web application that allows users to watch trends with their favorite token, then buy or sell thier token. Users must register to the app to buy/sell. But the app is open for anyone to watch charts or make pretend trades.
 
 ## Wireframes
-**main page**
+**Main Page**
 <img src = "wireframes/WIREFRAME-1.png">
-**logged in user dashboard**
+**Logged in user dashboard**
 <img src = "wireframes/WIREFRAME-2.png">
-**logged in user purchase page**
+**Logged in user purchase page**
 <img src = "wireframes/WIREFRAME-3.png">
 ## User stories:
 - As a user, I’m able to register to the web application
