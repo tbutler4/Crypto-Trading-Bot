@@ -21,8 +21,8 @@
 - Users: userId (PK, integer), userNname (varchar 255), userEmail (varchar 255), userPassword (varchar 255)=
 
 **Business rules:**
-- A user can add many movies to his/her watch later list
-- The watchlists can only be accessed by the user who creates it
+- Candle data onn crypto token will show on home page but any other feature will be specific to each logged in user.
+- Users data will be visible only to that user
 
 **Entity relationship diagram:**
 
